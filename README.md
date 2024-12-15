@@ -23,10 +23,23 @@ Pirmā darbība, neskatoties uz uzdevuma definīcijām pēc [text](uzdevums/Test
 
 ![alt text](bildes/jaunais_pirmais_zars.png)
 
-Uz esošā datora jau ir instalēts Git rīks no https://git-scm.com/downloads, kas nodrošinās visas prasītās darbības un rīks VScode no https://code.visualstudio.com/ ar nepieciešamiem papildinājumiem. Uz darbstacijas jau iepriekš ir nokonfigurēta autentifikācija ar Github serveri izmantojot Git iebūvēto noklusējuma autentifikācijas pārvaldnieku. 
+Uz esošā datora jau ir instalēts Git rīks no https://git-scm.com/downloads, kas nodrošinās visas prasītās darbības un rīks VScode no https://code.visualstudio.com/ ar nepieciešamiem papildinājumiem. Uz darbstacijas jau iepriekš ir nokonfigurēta autentifikācija ar Github serveri izmantojot Git iebūvēto noklusējuma autentifikācijas pārvaldnieku. Tāpat ir konfirgurēti git uzstādījumi .gitconfig failā.
+```init
+[user]
+# Please adapt and uncomment the following lines:
+name = Agris Pudans
+email = agris.pudans@outlook.com
+```
 Neredzu  vajadzību papildus rīku uzstādīšanai, piemēram, TortoiseGit. 
+
+Te parādam arī https://github.com/settings/tokens ekrāna kopija ar izveidoto tokenu un tā ievadi Git rīkā.
 
 Šeit ir maza atkāpe, ja darba pārbaudē tomēr TortoiseGit rīks ir obligāts - visu uzdevumu veikšanai pietiek tikai ar Git rīku un komandrindu. Darba pārbaudītāja ērtībai ir izmantots Markdown formāts un VScode rīks.
 
 Šajā brīdī ar VScode rīku ir reģistrētas jaunā ekrāna kopija un izmaiņas README.md failā un nosūtītas uz Github serveri.
+
+# Aktuālais darbs
+Git uzdevuma vajadzībām izmantošu c++ programmas kodu, kas ir saglabāts failā ap08426-hello.cpp. 
+
+Korektai izmaiņu reģistrācijai, izmaiņas README.md failā tiek ieliktas stage statusā. Pēc tam tiek izveidots zars add, kurā būs veiktas turpmākās darbības, kuras ir prasītas uzdevuma nosacījumos.
 
