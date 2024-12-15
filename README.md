@@ -13,8 +13,20 @@ LICENSE fails ir aizpildīts ar BSD-2 licensēšanas noteikumu. Tāds ir izvēl�
 
 README.md fails ir repozitorija aprakstošais fails, kur parasti liek informāciju par repozitorija saturu un kā to izmantot. Tas ir veidots Markdown formātā un, šajā gadījumā, aprakstīs DatZB038-LV : Programminženierija kursa KD4 izpildi repozitorija autora izpildījumā. 
 
-Turpmāk visas darbības ir veiktas Windwos operētājsistēmā un ar Visual Studio Code rīku. 
+Turpmāk visas darbības ir veiktas Windwos operētājsistēmā un ar Visual Studio Code, turpmāk VScde, rīku. 
 
-Pirmā darbība, neskatoties uz uzdevuma definīcijām pēc [text](uzdevums/Test4-Lab_vc_git.pdf) 2. lapas, ir izveidot darba zara izveide. Jaunajā zarā ir pievinoti jauni dati. Ar dažādiem līdzekļiem ir izveidotas divas mapes: bildes un uzdevums. Mapē bildes būs glabātas bildes ar ekrāna kopijām atbilstoši uzdevuma nosacījumiem, bet mapē uzdevums ir pats uzdevums.
+Pirmā darbība, neskatoties uz uzdevuma definīcijām pēc [text](uzdevums/Test4-Lab_vc_git.pdf) 2. lapas, ir izveidot darba zara ar nosaukumu darbs izveide. Jaunajā zarā ir pievinoti jauni dati. Ar dažādiem līdzekļiem ir izveidotas divas mapes: bildes un uzdevums. Mapē bildes būs glabātas bildes ar ekrāna kopijām atbilstoši uzdevuma nosacījumiem, bet mapē uzdevums ir pats uzdevums.
 
 ![alt text](bildes/pirmais_zars.png)
+
+Šobrīd izmantojam VScode, lai izveidotu zaru, bet komandrindu, lai reģistrētu veiktās izmaiņas jaunajā zarā.
+
+![alt text](bildes/jaunais_pirmais_zars.png)
+
+Uz esošā datora jau ir instalēts Git rīks no https://git-scm.com/downloads, kas nodrošinās visas prasītās darbības un rīks VScode no https://code.visualstudio.com/ ar nepieciešamiem papildinājumiem. Uz darbstacijas jau iepriekš ir nokonfigurēta autentifikācija ar Github serveri izmantojot Git iebūvēto noklusējuma autentifikācijas pārvaldnieku. 
+Neredzu  vajadzību papildus rīku uzstādīšanai, piemēram, TortoiseGit. 
+
+Šeit ir maza atkāpe, ja darba pārbaudē tomēr TortoiseGit rīks ir obligāts - visu uzdevumu veikšanai pietiek tikai ar Git rīku un komandrindu. Darba pārbaudītāja ērtībai ir izmantots Markdown formāts un VScode rīks.
+
+Šajā brīdī ar VScode rīku ir reģistrētas jaunā ekrāna kopija un izmaiņas README.md failā un nosūtītas uz Github serveri.
+
