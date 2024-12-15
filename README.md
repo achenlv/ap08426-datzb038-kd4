@@ -43,3 +43,8 @@ Git uzdevuma vajadzībām izmantošu c++ programmas kodu, kas ir saglabāts fail
 
 Korektai izmaiņu reģistrācijai, izmaiņas README.md failā tiek ieliktas stage statusā. Pēc tam tiek izveidots zars add, kurā būs veiktas turpmākās darbības, kuras ir prasītas uzdevuma nosacījumos.
 
+![alt text](bildes/pre-add-zars.png)
+
+Esošo git repozitorija zaru struktūru var redzēt ar:
+* git branch [-a], kur pielikema -a, ja ir vēlme redzēt arī attālos zarus uz servera, ne tikai vietējos
+* git status / log, lai redzētu līdz šim veiktās darbības.
