@@ -48,3 +48,15 @@ Korektai izmaiņu reģistrācijai, izmaiņas README.md failā tiek ieliktas stag
 Esošo git repozitorija zaru struktūru var redzēt ar:
 * git branch [-a], kur pielikema -a, ja ir vēlme redzēt arī attālos zarus uz servera, ne tikai vietējos
 * git status / log, lai redzētu līdz šim veiktās darbības.
+
+### TODO:
+Izmaiņu ielādēšana serverī ar push
+Jauns zars add
+Jaunā zara add modificēšana
+Jauna zara add komits
+Izveidot jaunu marķieri
+Izveidot jaunu zaru mult
+Jaunā zara mult modificēšana
+Zara add pievienošana main zaram - merge
+Zara mult pievienošana main zaram
+Izmaiņu ielādēšana serverī ar push
