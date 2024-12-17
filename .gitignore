@@ -30,3 +30,5 @@
 *.exe
 *.out
 *.app
+uzdevums/Test4-Lab_vc_git.pdf
+.gitignore
