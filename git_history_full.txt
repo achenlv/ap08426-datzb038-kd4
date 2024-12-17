@@ -1,0 +1,169 @@
+commit 828bca73e0930fa5a63f7c59bd06a2209b0d9f9a (HEAD -> main, origin/main, origin/HEAD)
+Merge: 6a8a5b0 961c207
+Author: chenange <48532727+achenlv@users.noreply.github.com>
+Date:   Tue Dec 17 02:48:53 2024 +0200
+
+    Merge pull request #1 from achenlv/mult2
+    
+    Gatavs Prod
+
+commit 961c207984002be4cb1af34570683b74374c031b (origin/mult2, mult2)
+Author: Agris Pudans <agris.pudans@outlook.com>
+Date:   Tue Dec 17 02:46:56 2024 +0200
+
+    Gatavs Prod
+
+ ap08426-hello.cpp | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+commit 6a8a5b027def459a6fcb9870e9575d1b85d29478
+Author: Agris Pudans <agris.pudans@outlook.com>
+Date:   Tue Dec 17 02:40:16 2024 +0200
+
+    Sagatavot produkcijai - status gatavs
+
+ ap08426-hello.cpp | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+commit deb2645bfdc1a78c01ca186ff2385634ccadca69
+Author: Agris Pudans <agris.pudans@outlook.com>
+Date:   Tue Dec 17 02:36:14 2024 +0200
+
+    mult=main
+
+ .gitignore                          |   2 ++
+ README.md                           |  57 ++++++++++++++++++++++++++++++++++++
+ ap08426-hello.cpp                   |   7 +++++
+ bildes/git-log-un-citi.png          | Bin 0 -> 315197 bytes
+ bildes/git-remote-push.png          | Bin 0 -> 152197 bytes
+ bildes/init_github_repo_izveide.png | Bin 0 -> 82191 bytes
+ bildes/init_to_local.png            | Bin 0 -> 28536 bytes
+ bildes/jaunais_pirmais_zars.png     | Bin 0 -> 48171 bytes
+ bildes/markieris.png                | Bin 0 -> 82515 bytes
+ bildes/mazliet_garlaicigi.png       | Bin 0 -> 124371 bytes
+ bildes/mult-zars.png                | Bin 0 -> 183770 bytes
+ bildes/pirmais_zars.png             | Bin 0 -> 110015 bytes
+ bildes/pre-add-zars.png             | Bin 0 -> 131373 bytes
+ 13 files changed, 66 insertions(+)
+
+commit 45bf4dc24f0b6b10f80eb3d5b2b8b014055a347a (origin/mult, mult)
+Author: Agris Pudans <agris.pudans@outlook.com>
+Date:   Tue Dec 17 02:32:08 2024 +0200
+
+    tulit bus main
+
+ README.md | 6 +++---
+ 1 file changed, 3 insertions(+), 3 deletions(-)
+
+commit a5e15a24f54f2f99e5eb783730683d3724b061dd
+Author: Agris Pudans <agris.pudans@outlook.com>
+Date:   Tue Dec 17 02:27:46 2024 +0200
+
+    readme.md updateis
+
+ README.md            |   4 +---
+ bildes/mult-zars.png | Bin 0 -> 183770 bytes
+ 2 files changed, 1 insertion(+), 3 deletions(-)
+
+commit 8de7aa68882d7b2fd9add4186fd175acd38cf8f7
+Author: Agris Pudans <agris.pudans@outlook.com>
+Date:   Tue Dec 17 02:25:28 2024 +0200
+
+    aizietizietaiziet
+
+ ap08426-hello.cpp | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+commit fbdec6d4a551056680837993581bd8d868c2c2a4 (origin/add, add)
+Author: Agris Pudans <agris.pudans@outlook.com>
+Date:   Tue Dec 17 02:21:05 2024 +0200
+
+    izmaiņās
+
+ README.md                  |  23 ++++++++++++++++++++++-
+ bildes/git-log-un-citi.png | Bin 0 -> 315197 bytes
+ bildes/git-remote-push.png | Bin 0 -> 152197 bytes
+ bildes/markieris.png       | Bin 0 -> 82515 bytes
+ 4 files changed, 22 insertions(+), 1 deletion(-)
+
+commit 4ca1becf82b0ee0662d707378ce76f2ed0e4ecdf (tag: v0.1)
+Author: Agris Pudans <agris.pudans@outlook.com>
+Date:   Tue Dec 17 02:04:12 2024 +0200
+
+    Kļūda - nav kompilatora un citu c++ lietu
+
+ ap08426-hello.cpp | 1 +
+ 1 file changed, 1 insertion(+)
+
+commit a671944fce6252a1437f9bd9821876f41ac69ea6 (origin/darbs, darbs)
+Author: Agris Pudans <agris.pudans@outlook.com>
+Date:   Tue Dec 17 01:56:51 2024 +0200
+
+    dažas izmaiņas dokumentā
+
+ README.md | 14 +++++++++++++-
+ 1 file changed, 13 insertions(+), 1 deletion(-)
+
+commit 1d7ef2178761ebbd0a96d9296b886d2f3d8ebfb8
+Author: Agris Pudans <agris.pudans@outlook.com>
+Date:   Sun Dec 15 17:38:28 2024 +0200
+
+    pre-add-zars ;) ap08426
+
+ README.md               |   5 +++++
+ ap08426-hello.cpp       |   6 ++++++
+ bildes/pre-add-zars.png | Bin 0 -> 131373 bytes
+ 3 files changed, 11 insertions(+)
+
+commit 362be34c1fd579195d2209d4add6d012fdc68ff7
+Author: Agris Pudans <agris.pudans@outlook.com>
+Date:   Sun Dec 15 17:38:01 2024 +0200
+
+    pre-add zars ;) ap08426
+
+ README.md | 15 ++++++++++++++-
+ 1 file changed, 14 insertions(+), 1 deletion(-)
+
+commit 85e52ff80782026e43cb2dc2c2cb48e57bf846c5
+Author: Agris Pudans <ext-agris.pudans@intrum.com>
+Date:   Sun Dec 15 17:24:59 2024 +0200
+
+    Hopā
+
+ README.md                       |  18 +++++++++++++++---
+ bildes/jaunais_pirmais_zars.png | Bin 0 -> 48171 bytes
+ bildes/mazliet_garlaicigi.png   | Bin 0 -> 124371 bytes
+ 3 files changed, 15 insertions(+), 3 deletions(-)
+
+commit 06ad300958352e6086d45b3e7dd74ad3085ec28c
+Author: Agris Pudans <ext-agris.pudans@intrum.com>
+Date:   Sun Dec 15 17:07:29 2024 +0200
+
+    init darbiņš
+
+ README.md                           |   8 ++++++++
+ bildes/init_github_repo_izveide.png | Bin 0 -> 82191 bytes
+ bildes/init_to_local.png            | Bin 0 -> 28536 bytes
+ bildes/pirmais_zars.png             | Bin 0 -> 110015 bytes
+ uzdevums/Test4-Lab_vc_git.pdf       | Bin 0 -> 1997741 bytes
+ 5 files changed, 8 insertions(+)
+
+commit 488b097339e6724add5a162886068ae4a221df31
+Author: chenange <48532727+achenlv@users.noreply.github.com>
+Date:   Sun Dec 15 16:48:19 2024 +0200
+
+    Pirmais komits, sākam darbu.
+
+ README.md | 13 ++++++++++++-
+ 1 file changed, 12 insertions(+), 1 deletion(-)
+
+commit 29940ef272d03b60030c4074b3014370ef176ab6
+Author: chenange <48532727+achenlv@users.noreply.github.com>
+Date:   Sun Dec 15 16:25:28 2024 +0200
+
+    Initial commit
+
+ .gitignore | 32 ++++++++++++++++++++++++++++++++
+ LICENSE    | 24 ++++++++++++++++++++++++
+ README.md  |  1 +
+ 3 files changed, 57 insertions(+)
