@@ -63,7 +63,7 @@ Git repozitorijā katrai fiksācijai ir savs unikāls id. Ja fiksāciju ir maz, 
 
 Tagad var izveidot otru repozitoriju mult, kur fiksēs izmaiņas jau no jaunā datora. Protams, var arī no vecā, taču šādi stāsts ir labāks.
 
+![alt text](bildes/mult-zars.png)
 
-Zara add pievienošana main zaram - merge
-Zara mult pievienošana main zaram
-Izmaiņu ielādēšana serverī ar push
+Kad darbs ir padarīts, to vajag piefiksēt galvenajā main zarā. To var izdarīt ar `git merge` komandu. Ejam uz main zaru, tad ievelkam izmaiņas no mult zara. Visu, protams, var izdarīt arī ar vienu komandu vienā rindā, bet labāk ir šādi. Gadījumam, ja ir izvēlēts cits apvienošanas veids, piemēŗam, ar `git rebase`.
+
