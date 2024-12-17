@@ -48,3 +48,24 @@ Korektai izmaiņu reģistrācijai, izmaiņas README.md failā tiek ieliktas stag
 Esošo git repozitorija zaru struktūru var redzēt ar:
 * git branch [-a], kur pielikema -a, ja ir vēlme redzēt arī attālos zarus uz servera, ne tikai vietējos
 * git status / log, lai redzētu līdz šim veiktās darbības.
+
+![alt text](bildes/git-log-un-citi.png)
+
+### TODO:
+Koda izmaiņas darba zarā add. Agrāk izveidotajā vietējā darba zarā add bija fails ap08426-hello.cpp. Mēs saprotam, ka uz esošā datora nav C++ kompilēšanai nepieciešamās programmatūras. Viens no veidiem, kā risināt - aizsūtīt failu uz git serveri. 
+
+![alt text](bildes/git-remote-push.png)
+
+Repozitorijā jau ir norādīts attālais git serveris. To var redzēt ar komandu `git config --get remote.origin.url`. Zars add gan pastāv tikai lokālajā kopijā. To var reģistrēt serverī, kā tas ir redzams augstāk pieliktajā bildē.
+
+Git repozitorijā katrai fiksācijai ir savs unikāls id. Ja fiksāciju ir maz, tad vēl var tikt skaidrībā, kas ir kas, jo jāatceras tikai unikālā daļa. Viena fiksācijai noteikti pietitku ar vienu simbolu. Ja fiksāciju ir daudz, tad tikt skaidrībā ar vēsturiskām vietām palīdz marķieri. 
+
+![alt text](bildes/markieris.png)
+
+
+
+Izveidot jaunu zaru mult
+Jaunā zara mult modificēšana
+Zara add pievienošana main zaram - merge
+Zara mult pievienošana main zaram
+Izmaiņu ielādēšana serverī ar push
