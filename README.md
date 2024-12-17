@@ -51,7 +51,6 @@ Esošo git repozitorija zaru struktūru var redzēt ar:
 
 ![alt text](bildes/git-log-un-citi.png)
 
-### TODO:
 Koda izmaiņas darba zarā add. Agrāk izveidotajā vietējā darba zarā add bija fails ap08426-hello.cpp. Mēs saprotam, ka uz esošā datora nav C++ kompilēšanai nepieciešamās programmatūras. Viens no veidiem, kā risināt - aizsūtīt failu uz git serveri. 
 
 ![alt text](bildes/git-remote-push.png)
@@ -62,10 +61,9 @@ Git repozitorijā katrai fiksācijai ir savs unikāls id. Ja fiksāciju ir maz, 
 
 ![alt text](bildes/markieris.png)
 
+Tagad var izveidot otru repozitoriju mult, kur fiksēs izmaiņas jau no jaunā datora. Protams, var arī no vecā, taču šādi stāsts ir labāks.
 
 
-Izveidot jaunu zaru mult
-Jaunā zara mult modificēšana
 Zara add pievienošana main zaram - merge
 Zara mult pievienošana main zaram
 Izmaiņu ielādēšana serverī ar push
